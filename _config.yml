@@ -1,0 +1,13 @@
+# Site settings
+title: "Moinul's CV"
+output_dir: "docs"
+description: "A brief summary of my CV"
+theme: awesome-cv
+fontfamily: sans-serif
+fontfamilyoptions: helvetica
+fontsize: 11pt
+pagestyle: plain
+email: your-email@example.com
+linkedin: your-linkedin-username
+github: your-github-username
+papersize: letter
