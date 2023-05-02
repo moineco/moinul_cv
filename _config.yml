@@ -1,5 +1,4 @@
-# Site settings
-title: "Moinul's CV"
+name: "Moinul's CV"
 output_dir: "docs"
 description: "A brief summary of my CV"
 theme: awesome-cv
