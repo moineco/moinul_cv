@@ -1,3 +1,13 @@
-name: "CV"
-output_dir: "docs"
+# Site settings
+title: "CV"
+description: "A brief summary of my CV"
+baseurl: 
+url: "https://moineco.github.io"
 
+# Theme settings
+theme: null
+
+# Contact info
+email: your-email@example.com
+linkedin: your-linkedin-username
+github: your-github-username
