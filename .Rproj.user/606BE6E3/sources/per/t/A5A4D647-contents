@@ -1,7 +1,0 @@
-name: "Moinul Islam's CV"
-navbar:
-  title: "Moinul"
-  left:
-    - text: "CV"
-      href: cv.html
-output_dir: "docs"
