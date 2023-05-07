@@ -1,2 +1,1 @@
-# moinul_cv_git
- my cv
+# moinul_cv
