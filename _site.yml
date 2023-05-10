@@ -5,7 +5,7 @@ navbar:
     - text: "Home"
       href: index.html
   output:
-    html_document:
+    pagedown::html_resume:
      toc: true
      highlight: textmate
 output_dir: "docs"
