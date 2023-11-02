@@ -61,7 +61,7 @@ Last updated on `r Sys.Date()`.
 I have received my Ph.D. in engineering degree from Kyushu University in 2016. My research focuses are:
 
 1.  Environmental Economics
-2.  Energy Economics
+2.  Experimental Economics
 3.  Geoeconomics
 4.  Sustainability Science
 
@@ -216,9 +216,17 @@ Hiroshima, Japan
 
 ## Selected Publications (peer-review) {data-icon="file"}
 
+### [Islam, M.,]{.underline} Kotani, K., & Managi, S. (2023). Nature dependence and seasonality change perceptions for climate adaptation and mitigation.
+
+*Economic Analysis and Policy* (forthcoming)
+
+Bangladesh
+
+2023
+
 ### Managi, S., [Islam, M.,]{.underline} Zhang, D., Zaied, Y. B., & Saito, O. (2023). Natural capital accounting for sustainable cities.
 
-*Sustainability Science* (forthcoming)
+*Sustainability Science*:  18, 2049–2051.
 
 Global
 
