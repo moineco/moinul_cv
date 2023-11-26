@@ -113,7 +113,7 @@ Current - 2020
 
 -   Work as a researcher at Research Institute of Future Design (RIFD)
 -   Conduct experimental economics and development economics research
--   Develop the **Human Geography and Economics** laboratory
+-   Establish the **Human Geography and Economics** laboratory
 
 ### Assistant Professor
 
@@ -216,17 +216,17 @@ Hiroshima, Japan
 
 ## Selected Publications (peer-review) {data-icon="file"}
 
-### [Islam, M.,]{.underline} Kotani, K., & Managi, S. (2023). Nature dependence and seasonality change perceptions for climate adaptation and mitigation.
+### [Islam, M.,]{.underline} Kotani, K., & Managi, S. (2024). Nature dependence and seasonality change perceptions for climate adaptation and mitigation.
 
-*Economic Analysis and Policy* (forthcoming)
+*Economic Analysis and Policy*,  81, 34-44.
 
 Bangladesh
 
-2023
+2024
 
 ### Managi, S., [Islam, M.,]{.underline} Zhang, D., Zaied, Y. B., & Saito, O. (2023). Natural capital accounting for sustainable cities.
 
-*Sustainability Science*:  18, 2049–2051.
+*Sustainability Science*,  18, 2049–2051.
 
 Global
 
@@ -234,7 +234,7 @@ Global
 
 ### Yamaguchi, R., [Islam, M.,]{.underline} and Managi, S. (2023). Natural Capital and Wealth Accounting for Sustainability Assessment: A Global Perspective
 
-*International Review of Environmental and Resource Economics*: 16, 431-465.
+*International Review of Environmental and Resource Economics*, 16, 431-465.
 
 Global
 
@@ -242,7 +242,7 @@ Global
 
 ### [Islam, M.]{.underline}, Zhang, B., and Managi, S. (2022). The tradeoff between natural capital and other capitals in Pakistan
 
-*Sustainability Science*: 17, 1799-1811.
+*Sustainability Science*, 17, 1799-1811.
 
 Pakistan
 
