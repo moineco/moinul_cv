@@ -39,7 +39,7 @@ output:
 
 -   Conduct empirical analysis by using economic models.
 
--   Skilled in R, Python, STATA, EViews, LaTeX, QGIS, ArcGIS
+-   Skilled in R, Python, STATA, EViews, LaTeX, QGIS, ArcGIS, GNU Emacs, oTree
 
 ## Disclaimer {#disclaimer}
 
@@ -51,7 +51,7 @@ Last updated on `r Sys.Date()`.
 
 ## Moinul Islam {#title}
 
-### Currently working as an Assistant Professor at Kochi University of Technology. I am currently affiliated with:
+### Currently working as an Assistant Professor at Kochi University of Technology. I am affiliated with:
 
 **a.** Research Institute for Future Design, Kochi University of Technology, 2-22 Eikokuji, Kochi City, Kochi 780-8515, Japan
 
