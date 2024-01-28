@@ -25,7 +25,7 @@ output:
 
 ## Contact Info {#contact}
 
--   <i class="fa fa-envelope"></i> [islam.moinul\@kochi-tech.ac.jp](mailto:lijia.yu@outlook.com){.email}
+-   <i class="fa fa-envelope"></i> [moinul.eco\@gmail.com](mailto:lijia.yu@outlook.com){.email}
 -   <i class="fa fa-globe"></i> <https://moineco.github.io/moinul/journal.html>
 -   <i class="fa fa-github"></i> <https://github.com/moineco>
 -   <i class="fa fa-twitter"></i> moinul_econ
