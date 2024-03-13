@@ -21,8 +21,6 @@ output:
 
 # Aside
 
-![](images/profile_1.jpeg)
-
 ## Contact Info {#contact}
 
 -   <i class="fa fa-envelope"></i> [moinul.eco\@gmail.com](mailto:lijia.yu@outlook.com){.email}
@@ -57,8 +55,6 @@ Last updated on `r Sys.Date()`.
 
 **b.** School of Economics and Management, Kochi University of Technology, 2-22 Eikokuji, Kochi City, Kochi 780-8518, Japan
 
-**c.** Urban Institute, Kyushu University, 744 Motooka, Nishi-ku, Fukuoka 819-0395, Japan
-
 I have received my Ph.D. in engineering degree from Kyushu University in 2016. My research focuses are:
 
 1.  Applied Microeconomics
@@ -67,7 +63,7 @@ I have received my Ph.D. in engineering degree from Kyushu University in 2016. M
 4.  Geoeconomics
 5.  Sustainability Science
 
-I am experienced in econometric analysis, statistical analysis and spatial analysis. I have extensive skills to conduct experimental research by using the methods of online experiment, field experiment and laboratory experiment. If you are interested in my background and consider to collaborate for research, please feel free to contact me.
+I am experienced in econometric analysis, statistical analysis and spatial analysis. I have extensive skills to conduct experimental research by using the methods of online experiment, field experiment and laboratory experiment.
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
 
@@ -150,43 +146,11 @@ Sendai, Japan
 -   Working as a researcher at Graduate School of Environmental Studies
 -   Analyze environmental and energy data to develop energy policies
 
-## Project Experience {data-icon="suitcase"}
-
-### United Nations Environmental Program (UNEP)
-
-Inclusive Wealth Project
-
-Kyushu, Japan
-
-Current - 2016
-
-::: concise
--   Data collection to measure the Inclusive Wealth of Nations.
--   Analyze data and create Inclusive Wealth Index.
--   Write the report as a contributing author of UNEP the Inclusive Wealth Report.
-:::
-
-### Research Institute of Economy, Trade and Industry (RIETI)
-
-Economic analysis and policy
-
-Kyushu, Japan
-
-2013 - 2016
-
-### Strategic Energy and Resource Management and Sustainable Solutions (SERMS)
-
-Environmental economics and policy
-
-Sendai, Japan
-
-2012
-
 ## Teaching Experience {data-icon="chalkboard-teacher"}
 
 ### Future Design
 
-Instructor of future design linked to intragenerational and intergenerational sustainability at Kochi University of Technology.
+Instructor of "future design" course at Kochi University of Technology
 
 Kochi, Japan
 
@@ -194,7 +158,7 @@ Current - 2023
 
 ### International Trade and Finance
 
-Instructor of international trade and finance linked to intermediate microeconomics and macroeconomics at Kochi University of Technology.
+Instructor of "international trade and finance" course at Kochi University of Technology
 
 Kochi, Japan
 
@@ -202,7 +166,7 @@ Current - 2022
 
 ### Geoinformatics
 
-Instructor of geographic information system basics at Kochi University of Technology.
+Instructor of "geoinformatics" at Kochi University of Technology
 
 Kochi, Japan
 
@@ -210,17 +174,17 @@ Current - 2021
 
 ### Research Methodology
 
-Instructor of research methodology at Hiroshima University.
+Instructor of "research methodology" at Hiroshima University
 
 Hiroshima, Japan
 
 2020 - 2019
 
-## Selected Publications (peer-review) {data-icon="file"}
+## Journal articles (peer-review) {data-icon="file"}
 
-### Husniddin, S., **Islam, M.**, & Kotani, K. (2024). How does the number of water users in a land reform matter for water availability in agriculture?
+### Husniddin, S., [Islam, M.,]{.underline} & Kotani, K. (2024). How does the number of water users in a land reform matter for water availability in agriculture?
 
-*Agricultural Water Management*, 293, 108677. (<https://doi.org/10.1016/j.agwat.2024.108677>)
+*Agricultural Water Management*, 293, 108677. [Q1] (<https://doi.org/10.1016/j.agwat.2024.108677>)
 
 Tajikistan
 
@@ -228,23 +192,23 @@ Tajikistan
 
 ### [Islam, M.,]{.underline} Kotani, K., & Managi, S. (2024). Nature dependence and seasonality change perceptions for climate adaptation and mitigation.
 
-*Economic Analysis and Policy*, 81, 34-44. (<https://doi.org/10.1016/j.eap.2023.11.001>)
+*Economic Analysis and Policy*, 81, 34-44. [Q1] (<https://doi.org/10.1016/j.eap.2023.11.001>)
 
 Bangladesh
 
 2024
 
-### Managi, S., [Islam, M.,]{.underline} Zhang, D., Zaied, Y. B., & Saito, O. (2023). Natural capital accounting for sustainable cities.
+### Managi, S., [Islam, M.*,]{.underline} Zhang, D., Zaied, Y., & Saito, O. (2023). Natural capital accounting for sustainable cities.
 
-*Sustainability Science*, 18, 2049--2051. (<https://doi.org/10.1007/s11625-023-01356-7>)
+*Sustainability Science*, 18, 2049--2051. [Q1] (<https://doi.org/10.1007/s11625-023-01356-7>)
 
 Global
 
 2023
 
-### Yamaguchi, R., [Islam, M.,]{.underline} and Managi, S. (2023). Natural Capital and Wealth Accounting for Sustainability Assessment: A Global Perspective
+### Yamaguchi, R., [Islam, M.,]{.underline} and Managi, S. (2023). Natural capital and wealth accounting for sustainability assessment: A global perspective
 
-*Review of Environmental and Resource Econ.*, 16, 431-465. (<http://dx.doi.org/10.1561/101.00000148>)
+*Review of Env. and Resource Econ.*, 16, 431-465. [Q2] (<http://dx.doi.org/10.1561/101.00000148>)
 
 Global
 
@@ -252,45 +216,45 @@ Global
 
 ### [Islam, M.]{.underline}, Zhang, B., and Managi, S. (2022). The tradeoff between natural capital and other capitals in Pakistan
 
-*Sustainability Science*, 17, 1799-1811. (<https://doi.org/10.1007/s11625-022-01143-w>)
+*Sustainability Science*, 17, 1799-1811. [Q1] (<https://doi.org/10.1007/s11625-022-01143-w>)
 
 Pakistan
 
 2022
 
-### Managi, S., [Islam, M.,]{.underline} Saito, O. et al. (2022). Valuation of nature and nature's contributions to people
+### Managi, S., [Islam, M.*,]{.underline} Saito, O. et al. (2022). Valuation of nature and nature's contributions to people
 
-*Sustainability Science*, 17, 701-705. (<https://doi.org/10.1007/s11625-022-01140-z>)
+*Sustainability Science*, 17, 701-705. [Q1] (<https://doi.org/10.1007/s11625-022-01140-z>)
 
 Global
 
 2022
 
-### [Islam, M.]{.underline}, and Managi, S. (2022). Valuation of Nature's Contribution in Ladakh, India: An Inclusive Wealth Method
+### [Islam, M.]{.underline}, and Managi, S. (2022). Valuation of nature's contribution in Ladakh, India: An inclusive wealth method
 
-*Sustainability Science*, 17, 905-918. (<https://doi.org/10.1007/s11625-021-01030-w>)
+*Sustainability Science*, 17, 905-918. [Q1] (<https://doi.org/10.1007/s11625-021-01030-w>)
 
 India
 
 2022
 
-### N'dri, L., [Islam, M.]{.underline}, and Kakinaka, M. (2021). ICT and environmental sustainability: Any differences in developing countries?
+### N'dri, L., [Islam, M.*]{.underline}, and Kakinaka, M. (2021). ICT and environmental sustainability: Any differences in developing countries?
 
-*Journal of Cleaner Production*, 297, 126642. (<https://doi.org/10.1016/j.jclepro.2021.126642>)
+*Journal of Cleaner Production*, 297, 126642. [Q1] (<https://doi.org/10.1016/j.jclepro.2021.126642>)
 
 Developing
 
 2021
 
-### Badamvaanchig, M., [Islam, M.]{.underline}, and Kakinaka, M. (2021). Pass-through of commodity price to Mongolian stock price: Symmetric or asymmetric?
+### Badamvaanchig, M., [Islam, M.*]{.underline}, and Kakinaka, M. (2021). Pass-through of commodity price to Mongolian stock price: Symmetric or asymmetric?
 
-*Resources Policy*, 70, 101955. (<https://doi.org/10.1016/j.resourpol.2020.101955>)
+*Resources Policy*, 70, 101955. [Q1] (<https://doi.org/10.1016/j.resourpol.2020.101955>)
 
 Mongolia
 
 2021
 
-### Hongsakhone, S., [Islam, M.]{.underline}, and Ichihashi, M. (2021). Producing a village input-output table (VIOT) from household survey data: A case study of a VIOT for a rural village in northern Lao PDR
+### Hongsakhone, S., [Islam, M.*]{.underline}, and Ichihashi, M. (2021). Producing a village input-output table (VIOT) from household survey data: A case study of a VIOT for a rural village in northern Lao PDR
 
 *Journal of Economic Structures*, 10, 1-24. (<https://doi.org/10.1186/s40008-020-00231-3>)
 
@@ -298,9 +262,9 @@ Lao PDR
 
 2021
 
-### Sharifi, A., Simangan, D., Lee, C. Y., Reyes, S. R. C., Katramiz, T., Josol, J. C. C., & [Islam, M.]{.underline} (2021). Climate-induced stressors to peace: A review of recent literature
+### Sharifi, A., Simangan, D., Lee, C., Reyes, S., Katramiz, T., Josol, J., & [Islam, M.]{.underline} (2021). Climate-induced stressors to peace: A review of recent literature
 
-*Environmental Research Letters*, 16, 073006. (<https://doi.org/10.1088/1748-9326/abfc08>)
+*Environmental Research Letters*, 16, 073006. [Q1] (<https://doi.org/10.1088/1748-9326/abfc08>)
 
 Global
 
@@ -308,31 +272,31 @@ Global
 
 ### Simangan, D., Virji, H., Hendrix, C., [Islam, M.]{.underline}, Kaneko, S., Ma, Y., Mechler, R., Pangotra, P., Peters, K., Sharifi, A. and Shams, S. (2021). A co-designed heuristic guide for investigating the peace-sustainability nexus in the context of global change
 
-*Sustainability Science*, 16, 1097-1109. (<https://doi.org/10.1007/s11625-021-00970-7>)
+*Sustainability Science*, 16, 1097-1109. [Q1] (<https://doi.org/10.1007/s11625-021-00970-7>)
 
 Global
 
 2021
 
-### Essandoh, O. K., [Islam, M.]{.underline}, and Kakinaka, M. (2020). Linking international trade and foreign direct investment to CO2 emissions: Any differences between developed and developing countries?
+### Essandoh, O. K., [Islam, M.*]{.underline}, and Kakinaka, M. (2020). Linking international trade and foreign direct investment to $CO_2$ emissions: Any differences between developed and developing countries?
 
-*Science of The Total Environment*, 712, 136437. (<https://doi.org/10.1016/j.scitotenv.2019.136437>)
+*Science of The Total Env.*, 712, 136437. [Q1] (<https://doi.org/10.1016/j.scitotenv.2019.136437>)
 
 Developing
 
 2020
 
-### Jingyu, W., Yuping B., Yihzong W., Zhihui L., Xiangzheng D., [**Islam M.**]{.underline}, and Managi S. (2020). Measuring inclusive wealth of China: Advances in sustainable use of resources
+### Jingyu, W., Yuping B., Yihzong W., Zhihui L., Xiangzheng D., [Islam M.]{.underline}, and Managi S. (2020). Measuring inclusive wealth of China: Advances in sustainable use of resources
 
-*Journal of Environmental Management*, 264, 110328. (<https://doi.org/10.1016/j.jenvman.2020.110328>)
+*Journal of Environmental Management*, 264, 110328. [Q1] (<https://doi.org/10.1016/j.jenvman.2020.110328>)
 
 China
 
 2020
 
-### Hotak, S., [**Islam, M.**]{.underline}, Kakinaka, M. and Kotani, K. (2020). Carbon emissions and carbon trade balances: International evidence from panel ARDL analysis
+### Hotak, S., [Islam, M.*]{.underline}, Kakinaka, M. and Kotani, K. (2020). Carbon emissions and carbon trade balances: International evidence from panel ARDL analysis
 
-*Environmental Science and Pollution Research*, 27, 24115-24128. (<https://doi.org/10.1007/s11356-020-08478-w>)
+*Env. Science and Pollution Res.*, 27, 24115-24128. [Q1] (<https://doi.org/10.1007/s11356-020-08478-w>)
 
 Global
 
@@ -348,7 +312,7 @@ Africa
 
 ### Coulibaly, T., Wakamatsu, M., [Islam, M.]{.underline}, Fukai, H., Managi, S. and Zhang, B. (2020). Differences in water policy efficacy across South African water management areas
 
-*Ecological Economics*, 175, 106707. (<https://doi.org/10.1016/j.ecolecon.2020.106707>)
+*Ecological Economics*, 175, 106707. [Q1] (<https://doi.org/10.1016/j.ecolecon.2020.106707>)
 
 South Africa
 
@@ -356,7 +320,7 @@ South Africa
 
 ### [Islam, M.]{.underline}, and Managi, S. (2019). Green growth and pro-environmental behavior: Sustainable resource management using natural capital accounting in India
 
-*Resources, Conservation and Recycling*, 145, 126-138. (<https://doi.org/10.1016/j.resconrec.2019.02.027>)
+*Resources Conservation and Recycl.*, 145, 126-138. [Q1] (<https://doi.org/10.1016/j.resconrec.2019.02.027>)
 
 India
 
@@ -364,15 +328,15 @@ India
 
 ### Managi, S., [Islam, M.]{.underline}, Saito, O., Stenseke, M., Dziba, L., Lavorel, S., Pascual, U., and Hashimoto, S. (2019). Valuation of nature and nature's contributions to people
 
-*Sustainability Science*, 1463-1465. (<https://doi.org/10.1007/s11625-019-00732-6>)
+*Sustainability Science*, 1463-1465. [Q1] (<https://doi.org/10.1007/s11625-019-00732-6>)
 
 Global
 
 2019
 
-### [Islam, M.]{.underline}, Kanemoto, K., and Managi, S. (2019). Growth potential for CO2 emissions transfer by tariff reduction
+### [Islam, M.]{.underline}, Kanemoto, K., and Managi, S. (2019). Growth potential for $CO_2$ emissions transfer by tariff reduction
 
-*Env. Research Let.*, 14, 024011. (<https://iopscience.iop.org/article/10.1088/1748-9326/aaf688/meta>)
+*Env. Research Let.*, 14, 024011. [Q1] (<https://iopscience.iop.org/article/10.1088/1748-9326/aaf688/meta>)
 
 Global
 
@@ -380,15 +344,15 @@ Global
 
 ### Yamaguchi, R., [Islam, M.]{.underline}, and Managi, S. (2019). Inclusive wealth in the 21st century
 
-*Letters in Spatial and Resource Sciences*, 12, 101-111. (<https://doi.org/10.1007/s12076-019-00229-x>)
+*Letters in Spatial and Resource Sciences*, 12, 101-111. [Q2] (<https://doi.org/10.1007/s12076-019-00229-x>)
 
 Global
 
 2019
 
-### Ying Lee, C., Lotsu, S., [Islam, M.]{.underline}, Yoshida, Y., and Kaneko, S. (2019). The Impact of an energy efficiency improvement policy on the economic performance of electricity-intensive firms in Ghana
+### Ying Lee, C., Lotsu, S., [Islam, M.*]{.underline}, Yoshida, Y., and Kaneko, S. (2019). The Impact of an energy efficiency improvement policy on the economic performance of electricity-intensive firms in Ghana
 
-*Energies*, 12, 3684. (<https://doi.org/10.3390/en12193684>)
+*Energies*, 12, 3684. [Q3] (<https://doi.org/10.3390/en12193684>)
 
 Ghana
 
@@ -396,7 +360,7 @@ Ghana
 
 ### [Islam, M.]{.underline}, Yamaguchi, R., Sugiawan, Y., and Managi, S. (2018). Valuing natural capital and ecosystem services: A literature review
 
-*Sustainability Science*, 14, 159-174. (<https://doi.org/10.1007/s11625-018-0597-7>)
+*Sustainability Science*, 14, 159-174. [Q1] (<https://doi.org/10.1007/s11625-018-0597-7>)
 
 Global
 
@@ -404,7 +368,7 @@ Global
 
 ### [Islam, M.]{.underline}, and Managi, S. (2018). Sustainable adaptation to multiple water risks in agriculture: Evidence from Bangladesh
 
-*Sustainability* (Switzerland), 10(6). (<https://doi.org/10.3390/su10061734>)
+*Sustainability* (Switzerland), 10(6). [Q2] (<https://doi.org/10.3390/su10061734>)
 
 Bangladesh
 
@@ -412,7 +376,7 @@ Bangladesh
 
 ### Rajapaksa, D., [Islam, M.]{.underline}, and Managi, S. (2018). Pro-environmental behavior: The role of public perception in infrastructure and the social factors for sustainable development
 
-*Sustainability* (Switzerland), 10, 937. (<https://doi.org/10.3390/su10040937>)
+*Sustainability* (Switzerland), 10, 937. [Q2] (<https://doi.org/10.3390/su10040937>)
 
 Global
 
@@ -420,7 +384,7 @@ Global
 
 ### Tolliver, C., [Islam, M.]{.underline}, Shin, K., and Managi, S. (2018). The impact of energy security risks on energy consumption
 
-*Int. Journal of Innovation and Sustainable Dev.*, 12, 258--270. (<https://doi.org/10.1504/IJISD.2018.091522>)
+*Int. Journal of Innovation and Sust. Dev.*, 12, 258--270. [Q4] (<https://doi.org/10.1504/IJISD.2018.091522>)
 
 Global
 
@@ -428,7 +392,7 @@ Global
 
 ### Sugiawan, Y., [Islam, M.]{.underline}, and Managi, S. (2017). Global marine fisheries with environmental sustainability
 
-*Economic Analysis and Policy*, 55, 158-168. (<https://doi.org/10.1016/j.eap.2017.08.004>)
+*Economic Analysis and Policy*, 55, 158-168. [Q1] (<https://doi.org/10.1016/j.eap.2017.08.004>)
 
 Global
 
@@ -444,7 +408,7 @@ Global
 
 ### [Islam, M.]{.underline}, Kanemoto, K., and Managi, S. (2016). Impact of trade openness and sector trade on embodied greenhouse gases emissions and air pollutants
 
-*Journal of Industrial Ecology*, 20, 494-505. (<https://doi.org/10.1111/jiec.12455>)
+*Journal of Industrial Ecology*, 20, 494-505. [Q1] (<https://doi.org/10.1111/jiec.12455>)
 
 Global
 
@@ -452,7 +416,7 @@ Global
 
 ### [Islam, M.]{.underline}, Kotani, K., and Managi, S. (2016). Climate perception and flood mitigation cooperation: A Bangladesh case study
 
-*Economic Analysis and Policy*, 49, 117-133. (<https://doi.org/10.1016/j.eap.2016.01.001>)
+*Economic Analysis and Policy*, 49, 117-133. [Q1] (<https://doi.org/10.1016/j.eap.2016.01.001>)
 
 Bangladesh
 
@@ -460,7 +424,7 @@ Bangladesh
 
 ### [Islam, M.]{.underline}, and Kotani, K. (2016). Changing seasonality in Bangladesh
 
-*Regional Environmental Change*, 16, 585-590. (<https://doi.org/10.1007/s10113-015-0758-5>)
+*Regional Environmental Change*, 16, 585-590. [Q2] (<https://doi.org/10.1007/s10113-015-0758-5>)
 
 Bangladesh
 
@@ -468,7 +432,7 @@ Bangladesh
 
 ## International policy reports (peer-review) {data-icon="laptop"}
 
-### Inclusive Wealth Report 2022
+### Inclusive wealth report 2022
 
 United Nation Environmental Program (UNEP)
 
@@ -476,7 +440,7 @@ Global
 
 2023
 
-### Inclusive Wealth of Pakistan: The Case for Investing in Natural Capital and Restoration
+### Inclusive wealth of Pakistan: The case for investing in natural capital and restoration
 
 United Nation Environmental Program (UNEP)
 
@@ -484,7 +448,7 @@ Pakistan
 
 2022
 
-### Future Design: For the Survival of Humankind
+### Future design: For the survival of humankind
 
 Think7: Research-based policy recommendations for the G7
 
@@ -494,9 +458,9 @@ Global
 
 ## Book chapters (peer-review) {data-icon="book"}
 
-### [**Islam, M.**]{.underline}, and Managi, S. (2021). Global Human Capital: View From Inclusive Wealth
+### [**Islam, M.**]{.underline}, and Managi, S. (2021). Global human capital: View from inclusive wealth
 
-In Measuring Human Capital (pp. 39-54). Academic Press. ISBN: 9780128190579.
+In measuring human capital (pp. 39-54). Academic Press. ISBN: 9780128190579.
 
 Global
 
@@ -504,7 +468,7 @@ Global
 
 ### Sugiawan, Y., [**Islam, M.**]{.underline}, and Managi, S. (2019). Global marine fisheries with environmental sustainability
 
-In Wealth, Inclusive Growth and Sustainability. Routledge, New York, USA.
+In wealth, inclusive growth and sustainability. Routledge, New York, USA.
 
 Global
 
@@ -512,7 +476,7 @@ Global
 
 ### Sankaralingam, I., [**Islam, M.**]{.underline}, Nozawa, W., and Managi, S. (2019). Impact of infrastructure in India. In Wealth, Inclusive Growth and Sustainability
 
-In Wealth, Inclusive Growth and Sustainability. Routledge, New York, USA.
+In wealth, inclusive growth and sustainability. Routledge, New York, USA.
 
 India
 
@@ -520,7 +484,7 @@ India
 
 ### Jumbri, I., [**Islam, M.**]{.underline}, and Managi, S. (2019). Inclusive wealth adjusted by total factor productivity as a sustainable measurement: global productivity analysis
 
-In Wealth, Inclusive Growth and Sustainability. Routledge, New York, USA.
+In wealth, inclusive growth and sustainability. Routledge, New York, USA.
 
 Global
 
@@ -528,7 +492,7 @@ Global
 
 ### Coulibaly, T., [**Islam, M.**]{.underline}, and Managi, S. (2019). The impact of climate change and extreme events on agriculture in Africa
 
-In Wealth, Inclusive Growth and Sustainability. Routledge, New York, USA.
+In wealth, inclusive growth and sustainability. Routledge, New York, USA.
 
 Africa
 
@@ -536,7 +500,7 @@ Africa
 
 ### Qiuyi, C., [**Islam, M.**]{.underline}, and Managi, S. (2019). Human capital change and social impact under China's universal two-child policy
 
-In Wealth, Inclusive Growth and Sustainability. Routledge, New York, USA.
+In wealth, inclusive growth and sustainability. Routledge, New York, USA.
 
 China
 
@@ -544,7 +508,7 @@ China
 
 ### Mahful, R., [**Islam, M.**]{.underline}, Nakayam, H., and Managi, S. (2019). The effect of landfill gas emission on global warming and workers' health in Indonesia
 
-In Wealth, Inclusive Growth and Sustainability. Routledge, New York, USA.
+In wealth, inclusive growth and sustainability. Routledge, New York, USA.
 
 Indonesia
 
@@ -552,57 +516,81 @@ Indonesia
 
 ## International conferences and symposiums {data-icon="folder"}
 
-### **Islam, M.**, and Saijo, T. A Future Design Workshop on Inequality
+### Future design (FD) social experiments 
 
-4th International Conference on Anticipation
+17th association of behavioral economics and finance conference (Kochi University of Technology)
+
+Kochi, Japan
+
+2023
+
+### Relationship of trade openness and renewable energy with inorganic nitrogen intensity in ecosystem
+
+SEEPS workshop 2023 (Kyushu University)
+
+Kyushu, Japan
+
+2023
+
+### Future design workshop on inequality
+
+4th International conference on anticipation (Arizona State University)
 
 Arizona, USA
 
 2022
 
-### **Islam, M.** Nitrogen cycle and intergenerational sustainability
+### Nitrogen cycle and intergenerational sustainability
 
-Future Design 2022
+Future design 2022
 
 Kochi, Japan
 
 2022
 
-### **Islam, M.** and Managi, S. Inclusive wealth of nations
+### Inclusive wealth of nations
 
-Q-AOS Symposium on Inclusive Growth, Kyushu University
+Q-AOS symposium on inclusive growth (Kyushu University)
 
 Kyushu, Japan
 
 2021
 
-### **Islam, M.** and Managi, S. Natural capital of nations for sustainable development
+### Growth potential for $CO_２$ emissions transfer by United States−China trade battle
 
-IPSA World Congress of Political Science
+SEEPS 2019 annual conference (Fukushima University)
+
+Fukushima, Japan
+
+2019
+
+### Natural capital of nations for sustainable development
+
+IPSA world congress of political science
 
 Brisbane, Australia
 
 2018
 
-### **Islam, M.** and Managi, S. Inclusive wealth accounting
+### Inclusive wealth accounting
 
-Joint Tianjin University-Kyushu University workshop on economics, Tianjin University
+Joint Tianjin University-Kyushu University workshop on economics (Tianjin University)
 
 Tianjin, China
 
 2018
 
-### **Islam, M.** and Managi, S. Natural capital of nations
+### Natural capital of nations
 
-Workshop on Sustainability, SDGs and Security, Kyushu University
+Workshop on sustainability, SDGs and security (Kyushu University)
 
 Kyushu, Japan
 
 2018
 
-### **Islam, M.**, and Managi, S. Farmer's adaptation strategy in Bangladesh,
+### Farmer's adaptation strategy in Bangladesh
 
-SEEPS
+SEEPS (Kobe University)
 
 Kobe, Japan
 
@@ -633,6 +621,128 @@ JSPS
 Japan
 
 2021 - 2019
+
+## Project Experience {data-icon="suitcase"}
+
+### United Nations Environmental Program (UNEP)
+
+Inclusive Wealth Project
+
+Kyushu, Japan
+
+Current - 2016
+
+::: concise
+-   Data collection to measure the Inclusive Wealth of Nations.
+-   Analyze data and create Inclusive Wealth Index.
+-   Write the report as a contributing author of UNEP the Inclusive Wealth Report.
+:::
+
+### Research Institute of Economy, Trade and Industry (RIETI)
+
+Economic analysis and policy
+
+Kyushu, Japan
+
+2016 - 2013
+
+### Strategic Energy and Resource Management and Sustainable Solutions (SERMS)
+
+Environmental economics and policy
+
+Sendai, Japan
+
+2012
+
+## Peer reviewer 
+
+### Sustainability Science
+
+4 papers
+
+Springer
+
+2023 - 2016
+
+### Economic Analysis and Policy
+
+11 papers
+
+Elsevier
+
+2023 - 2016
+
+### Journal of Cleaner Production
+
+1 paper
+
+Elsevier
+
+2022
+
+### Journal of Behavioral and Experimental Economics
+
+2 paper
+
+Springer
+
+2023
+
+### Environmental Research Letters
+
+1 paper
+
+IOPScience
+
+2018
+
+### Environmental Science and Pollution Research
+
+1 paper
+
+Springer
+
+2021
+
+### Global Sustainability
+
+1 paper
+
+Cambridge University Press
+
+2020
+
+### IEEE Transactions on Engineering Management
+
+2 papers
+
+Engineering Management Review
+
+2023 - 2021
+
+### Sustainability
+
+2 papers
+
+MDPI
+
+2022 - 2018
+
+### Economics of Disasters and Climate Change
+
+2 papers
+
+Springer
+
+2022 - 2019
+
+### Environmental Economics and Policy Studies
+
+2 papers
+
+Springer
+
+2022 - 2018
 
 ## Working papers {data-icon="file"}
 
@@ -675,3 +785,14 @@ Working Paper EMS-2013-06, International University of Japan, Economics & Manage
 Bangladesh
 
 2013
+
+
+## Scholarly Memberships
+
+### 環境経済・政策学会
+
+Society for Environmental Economics and Policy Studies
+
+Japan
+
+Current - 2013
